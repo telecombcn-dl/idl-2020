@@ -14,11 +14,10 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/web/people/elisa-sayrol" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/ElisaSayrol.jpg"></div>
-      <div>Elisa Sayrol</div>
-    </a>
-</div>
+<a href="http://www.costa-jussa.com/" target="_blank">
+   <div class="authorphoto"><img src="img/instructors/MartaRuiz.jpg"></div>
+   <div>Marta R. Costa-juss&agrave;</div>
+</a>
 <div class="author">
     <a href="http://noecasas.com/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/NoeCasas.jpg"></div>
@@ -26,11 +25,12 @@ fa-icon: info
     </a>
 </div>
 <br>
+</div>
 <div class="author">
-<a href="http://www.costa-jussa.com/" target="_blank">
-   <div class="authorphoto"><img src="img/instructors/MartaRuiz.jpg"></div>
-   <div>Marta R. Costa-juss&agrave;</div>
-</a>
+    <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
+      <div>Veronica Vilaplana</div>
+    </a>
 </div>
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
