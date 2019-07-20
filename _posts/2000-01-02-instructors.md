@@ -26,7 +26,6 @@ fa-icon: info
     </a>
 </div>
 <br>
-</div>
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
       <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
