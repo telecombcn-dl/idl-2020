@@ -18,6 +18,7 @@ fa-icon: info
    <div class="authorphoto"><img src="img/instructors/MartaRuiz.jpg"></div>
    <div>Marta R. Costa-juss&agrave;</div>
 </a>
+</div>
 <div class="author">
     <a href="http://noecasas.com/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/NoeCasas.jpg"></div>
