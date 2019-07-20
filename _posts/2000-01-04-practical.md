@@ -12,7 +12,7 @@ fa-icon: check
 * ECTS credits: 2 ECTS
 * Teaching language: English
 * Semester: Autumn 2018
-* Class Schedule: 22, 23, 24, 25 & 30 January 2019 (2pm-4pm Lectures, 4pm-6pm Lab)
+* Class Schedule: 22, 23, 24, 27 & 28 January 2020 (2pm-4pm Lectures, 4pm-6pm Lab)
 * Capacity: 40 students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
-* Course on [Piazza](https://piazza.com/upc/winter2019/230235/home)
+* Course on [Piazza](https://piazza.com/upc/winter2020/230235/home)
